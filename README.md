@@ -3,6 +3,8 @@
 ## 概要
 複数のオブジェクトアトリビュートを一括で接続するためのツールです。
 
+![image](images/sample.gif)
+
 ## インストール方法
  - FT_connect_attr.pyファイルをMayaのスクリプトディレクトリに配置します。
     - Windows: C:\Users\<ユーザー名>\Documents\maya\scripts
@@ -10,7 +12,6 @@
     - Linux: ~/maya/scripts
 
 ## 使用方法
-![image](images/sample.gif)
 
 1. スクリプトをMayaのスクリプトエディタで実行するか、Pythonモジュールとしてインポートします。
 
